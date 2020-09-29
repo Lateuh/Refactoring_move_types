@@ -1,4 +1,4 @@
-package main;
+package application;
 //pas dans le bon package
 
 public class Professeur extends Personne{

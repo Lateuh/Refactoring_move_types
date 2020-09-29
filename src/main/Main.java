@@ -1,5 +1,9 @@
 package main;
 
+import application.Etudiant;
+import application.Personne;
+import application.Professeur;
+
 public class Main {
 
 	public static void main(String[] args) {
